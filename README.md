@@ -3,9 +3,13 @@
 output screenshots
 
 
+
+
 Header/ Navbar
 
 ![](outputs/navbar.png)
+
+
 
 
 Main content
@@ -14,6 +18,8 @@ Main content
 ![](outputs/content2.png)
 ![](outputs/content3.png)
 ![](outputs/content4.png)
+
+
 
 
 Footer
