@@ -1,4 +1,9 @@
 # starbucks-clone
+### `website is deplyoed on below link`
+  [click here](https://starbucks-by-csk.netlify.app/) \
+  or the link below \
+  https://starbucks-by-csk.netlify.app/ 
+
 
 output screenshots
 
